@@ -74,6 +74,39 @@ Frameworks        MITRE ATT&CK · OWASP Top 10 · NIST CSF
 Platforms         TryHackMe · HackTheBox · VirtualBox
 ```
 
+# Digital Forensics Lab Report — Insider Threat Investigation
+
+## 📋 Overview
+Academic forensic investigation report for a simulated insider threat case at DataVault Pte Ltd. Demonstrates industry-standard DFIR methodology following **NIST SP 800-86**.
+
+## 🛠️ Tools Used
+- Autopsy / FTK Imager (disk imaging & analysis)
+- Wireshark (network traffic)
+- Volatility (memory forensics)
+
+## 📄 Report Contents (11 pages)
+- Executive Summary with colour-coded findings
+- Chain of Custody documentation
+- Timeline Analysis (7 reconstructed events)
+- Deleted file recovery & USB exfiltration evidence
+- 8 Indicators of Compromise (IOCs)
+- Network traffic analysis
+- Remediation recommendations
+
+## 🎓 Context
+**Course:** Diploma in Digital Forensics & Countermeasures  
+**Institution:** PSB Academy, Singapore  
+**Purpose:** Academic — demonstrates forensic methodology proficiency
+
+## 📎 View Report
+[Download PDF](./MOHAMED_HISHAM_DFIR_LAB_REPORT.pdf)
+
+## 🔑 Key Skills Demonstrated
+- Forensic imaging & hash verification (MD5/SHA-1/SHA-256)
+- Timeline analysis & anti-forensics detection
+- Professional report writing for legal/admissibility standards
+- NIST framework application
+
 ---
 
 ## Certifications
@@ -82,8 +115,7 @@ Platforms         TryHackMe · HackTheBox · VirtualBox
 |---|---|
 | Google Cybersecurity Professional Certificate | ✅ Earned (Oct 2025) |
 | CompTIA Security+ (SY0-701) | 🔄 In Progress |
-| ISC² Certified in Cybersecurity (CC) | 🔄 In Progress |
-| Splunk Fundamentals 1 | 📋 Planned |
+
 
 ---
 

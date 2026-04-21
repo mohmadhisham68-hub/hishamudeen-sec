@@ -33,7 +33,7 @@ python3 scanner.py --target 192.168.1.1 --ports 1-1024 --banner
 
 **Skills:** Python sockets · Threading · Network fundamentals · Service enumeration
 
-[→ View Project](./1-network-scanner/)
+[→ View Project](./1-network-scanner/)https://github.com/mohmadhisham68-hub/security-log-analyser
 
 ---
 

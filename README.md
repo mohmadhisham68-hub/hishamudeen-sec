@@ -47,7 +47,7 @@ python3 password_auditor.py
 
 **Skills:** Cryptography · Entropy · Regex · Defensive security · Risk assessment
 
-[→ View Project](./2-password-auditor/)
+[→ View Project](./2-password-auditor/) https://github.com/mohmadhisham68-hub/password-security-auditor
 
 ---
 

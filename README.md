@@ -74,65 +74,7 @@ Frameworks        MITRE ATT&CK · OWASP Top 10 · NIST CSF
 Platforms         TryHackMe · HackTheBox · VirtualBox 
 ```
 
-# 🔍 Digital Forensics Lab Report — Insider Threat Investigation
 
-11-page forensic report | NIST SP 800-86 | Autopsy · FTK Imager · Wireshark · Volatility
-
----
-
-## 📋 Overview
-
-Academic forensic investigation for simulated insider threat case (DataVault Pte Ltd). Demonstrates full DFIR methodology from acquisition to reporting.
-
-**Skills:** Disk forensics · Timeline analysis · Anti-forensics detection · Chain of custody · IOC documentation
-
----
-
-## 🛠️ Tools Used
-
-- Autopsy / FTK Imager — Disk imaging & deleted file recovery
-- Wireshark — Network traffic analysis
-- Volatility — Memory forensics
-
----
-
-## 📄 Report Contents (11 pages)
-
-| Section | Details |
-|---------|---------|
-| Executive Summary | Colour-coded findings table |
-| Chain of Custody | Evidence handling documentation |
-| Timeline Analysis | 7 reconstructed events |
-| Findings | Deleted files, USB exfiltration, timestamp manipulation |
-| IOCs | 8 Indicators of Compromise |
-| Network Analysis | Traffic pattern review |
-| Recommendations | Remediation steps |
-
----
-
-## 🎓 Context
-
-**Course:** Diploma in Digital Forensics & Countermeasures  
-**Institution:** PSB Academy, Singapore  
-**Standard followed:** NIST SP 800-86
-
----
-
-## 📎 View Report
-
-[Download PDF](./MOHAMED_HISHAM_DFIR_LAB_REPORT.pdf)
-
----
-
-## ⚠️ Disclaimer
-
-*Academic project — fictitious case. For educational use only.*
-
----
-
-## 🔗 Connect
-
-[GitHub](https://github.com/mohmadhisham68-hub) | [LinkedIn](https://www.linkedin.com/in/mohamed-hishamudeen-s-o-mohamed-ansari-59a198312/)
 ---
 
 ## Certifications

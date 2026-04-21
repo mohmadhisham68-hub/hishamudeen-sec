@@ -71,42 +71,68 @@ python3 log_analyser.py --demo
 Security Tools    Kali Linux · Wireshark · Nmap · Metasploit · Autopsy · OpenVAS · Splunk
 Programming       Python · Bash · PowerShell
 Frameworks        MITRE ATT&CK · OWASP Top 10 · NIST CSF
-Platforms         TryHackMe · HackTheBox · VirtualBox
+Platforms         TryHackMe · HackTheBox · VirtualBox 
 ```
 
-# Digital Forensics Lab Report — Insider Threat Investigation
+# 🔍 Digital Forensics Lab Report — Insider Threat Investigation
+
+11-page forensic report | NIST SP 800-86 | Autopsy · FTK Imager · Wireshark · Volatility
+
+---
 
 ## 📋 Overview
-Academic forensic investigation report for a simulated insider threat case at DataVault Pte Ltd. Demonstrates industry-standard DFIR methodology following **NIST SP 800-86**.
+
+Academic forensic investigation for simulated insider threat case (DataVault Pte Ltd). Demonstrates full DFIR methodology from acquisition to reporting.
+
+**Skills:** Disk forensics · Timeline analysis · Anti-forensics detection · Chain of custody · IOC documentation
+
+---
 
 ## 🛠️ Tools Used
-- Autopsy / FTK Imager (disk imaging & analysis)
-- Wireshark (network traffic)
-- Volatility (memory forensics)
+
+- Autopsy / FTK Imager — Disk imaging & deleted file recovery
+- Wireshark — Network traffic analysis
+- Volatility — Memory forensics
+
+---
 
 ## 📄 Report Contents (11 pages)
-- Executive Summary with colour-coded findings
-- Chain of Custody documentation
-- Timeline Analysis (7 reconstructed events)
-- Deleted file recovery & USB exfiltration evidence
-- 8 Indicators of Compromise (IOCs)
-- Network traffic analysis
-- Remediation recommendations
+
+| Section | Details |
+|---------|---------|
+| Executive Summary | Colour-coded findings table |
+| Chain of Custody | Evidence handling documentation |
+| Timeline Analysis | 7 reconstructed events |
+| Findings | Deleted files, USB exfiltration, timestamp manipulation |
+| IOCs | 8 Indicators of Compromise |
+| Network Analysis | Traffic pattern review |
+| Recommendations | Remediation steps |
+
+---
 
 ## 🎓 Context
+
 **Course:** Diploma in Digital Forensics & Countermeasures  
 **Institution:** PSB Academy, Singapore  
-**Purpose:** Academic — demonstrates forensic methodology proficiency
+**Standard followed:** NIST SP 800-86
+
+---
 
 ## 📎 View Report
+
 [Download PDF](./MOHAMED_HISHAM_DFIR_LAB_REPORT.pdf)
 
-## 🔑 Key Skills Demonstrated
-- Forensic imaging & hash verification (MD5/SHA-1/SHA-256)
-- Timeline analysis & anti-forensics detection
-- Professional report writing for legal/admissibility standards
-- NIST framework application
+---
 
+## ⚠️ Disclaimer
+
+*Academic project — fictitious case. For educational use only.*
+
+---
+
+## 🔗 Connect
+
+[GitHub](https://github.com/mohmadhisham68-hub) | [LinkedIn](https://www.linkedin.com/in/mohamed-hishamudeen-s-o-mohamed-ansari-59a198312/)
 ---
 
 ## Certifications

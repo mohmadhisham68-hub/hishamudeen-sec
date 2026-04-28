@@ -90,7 +90,7 @@ Platforms         TryHackMe · HackTheBox · VirtualBox
 ## Let's Connect
 
 - 📧 mohmadhisham68@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/hishamudeen)
+- 💼 [LinkedIn]https://www.linkedin.com/in/mohamed-hishamudeen-s-o-mohamed-ansari-59a198312/
 - 🌐 Singapore — open to cybersecurity internships and entry-level roles
 
 ---

@@ -70,7 +70,7 @@ python3 log_analyser.py --demo
 ```
 Security Tools    Kali Linux · Wireshark · Nmap · Metasploit · Autopsy · OpenVAS · Splunk
 Programming       Python · Bash · PowerShell
-Frameworks        MITRE ATT&CK · OWASP Top 10 · NIST CSF
+Frameworks        MITRE ATT&CK ·
 Platforms         TryHackMe · HackTheBox · VirtualBox 
 ```
 

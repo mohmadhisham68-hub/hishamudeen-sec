@@ -63,7 +63,7 @@ python3 log_analyser.py --demo
 
 [→ View Project](./3-log-analyzer/)https://github.com/mohmadhisham68-hub/security-log-analyser
 
-# 4.## 4. Bash Network Reconnaissance Tool
+# 4. Bash Network Reconnaissance Tool
 Modular Bash script that automates port scanning, DNS enumeration, 
 WHOIS lookups, IP geolocation, and suspicious IP extraction from 
 auth logs. Flags high-risk services and maps findings to MITRE ATT&CK.

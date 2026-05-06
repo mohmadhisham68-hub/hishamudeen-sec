@@ -81,7 +81,7 @@ Skills: Bash scripting · Network recon · DNS enumeration · MITRE ATT&CK · Pe
 Security Tools    Kali Linux · Wireshark · Nmap · Metasploit · Autopsy · OpenVAS · Splunk
 Programming       Python · Bash · PowerShell
 Frameworks        MITRE ATT&CK ·
-Platforms         TryHackMe · HackTheBox · VirtualBox 
+Platforms         TryHackMe 
 ```
 
 

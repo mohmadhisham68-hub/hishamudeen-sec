@@ -65,56 +65,10 @@ python3 log_analyser.py --demo
 bash recon.sh --target 192.168.1.0/24
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|---|---|
-| Python | Port scanner, log analyser, password auditor |
-| Bash | Recon automation |
-| Regex | Pattern-based log parsing |
-| MITRE ATT&CK | Threat mapping and classification |
-
 ```Skills: Bash scripting · Network recon · DNS enumeration · MITRE ATT&CK · Penetration testing
 [→ View Project](https://github.com/mohmadhisham68-hub/bash-recon-tool)
 
 ---
-
-## 📂 Other Projects
-
-### Incident Response & SIEM Simulation
-**Tools:** Splunk · Microsoft Sentinel · Python · PowerShell
-
-- Correlated alerts across Splunk and Sentinel to identify brute-force, lateral movement, and anomalous behaviour
-- Built Python ingestion scripts reducing manual log pre-processing time by ~40%
-- Parsed Windows Event IDs 4624, 4625, 4688 using PowerShell for suspicious activity detection
-- Submitted samples to VirusTotal, cross-referenced against MITRE ATT&CK for triage support
-- Led 4-analyst team producing a unified incident timeline presented to a mock CISO panel
-
----
-
-### Digital Forensics Investigation
-**Tools:** Autopsy · FTK Imager · SQLite Browser
-
-- Acquired and analysed disk images recovering deleted files with chain-of-custody maintained
-- Reconstructed attacker timeline across a 6-stage incident correlating file system artefacts and logs
-- Produced structured forensic report documenting IOCs and remediation steps
-
----
-
-### Network Penetration Testing Lab
-**Tools:** Nmap · OpenVAS · Wireshark · Metasploit · Kali Linux
-
-- Identified 15+ open ports and services, prioritised findings by CVSS severity
-- Validated vulnerabilities in controlled lab environments using Metasploit
-- Detected ARP spoofing and cleartext credentials via live PCAP analysis with Wireshark
-
---
-
----
-
-*All tools built for educational and authorised testing purposes only.*
-
-
----
-
 ## Technical Skills
 
 ```

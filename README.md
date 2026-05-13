@@ -60,6 +60,7 @@ python3 log_analyser.py --demo
 - Automates WHOIS lookups and network scanning across multiple hosts
 - Detects suspicious login patterns in system logs
 - All findings tagged to MITRE ATT&CK categories for structured reporting
+- https://github.com/mohmadhisham68-hub/bash-recon-tool
 
 ```bash
 bash recon.sh --target 192.168.1.0/24

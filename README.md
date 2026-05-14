@@ -1,103 +1,114 @@
-# 🔐 Cybersecurity Portfolio — Mohamed Hishamudeen
+# Hey, I'm Hishamudeen 👋
+### Cybersecurity Graduate · SOC Operations · Digital Forensics · Security Automation
 
-> Cybersecurity diploma student | Digital Forensics | Penetration Testing | Security Automation  
-> 📍 Singapore &nbsp;|&nbsp; mohmadhisham68@gmail.com &nbsp;|&nbsp; +65 8211 8980
-
----
-
-## About Me
-
-I'm a cybersecurity graduate from PSB Academy Singapore, specialising in digital forensics and countermeasures. This repository contains hands-on security tools I built to demonstrate practical skills in offensive reconnaissance, defensive monitoring, and security automation.
-
-All tools are built for **educational use and authorized testing only**.
+I'm a cybersecurity diploma graduate from PSB Academy (Digital Forensics & Countermeasures) with hands-on experience across SOC operations, threat detection, incident response, and security automation. I build practical tools that solve real analyst problems — from log parsers to recon scripts — and I'm currently pursuing CompTIA Security+.
 
 ---
 
-## 1. Network Port Scanner
+## 🔧 What I Work With
 
-Multi-threaded Python port scanner for authorized network reconnaissance. Identifies open TCP ports, maps services, grabs banners, flags risky exposures.
+**SIEM & Detection**
+`Splunk` `Microsoft Sentinel` `Windows Event ID Analysis`
 
-```bash
-python3 scanner.py --target 192.168.1.1 --ports 1-1024 --banner
-```
+**Security Tools**
+`Wireshark` `Nmap` `Metasploit` `OpenVAS` `Kali Linux`
 
-**Skills:** Python sockets · Threading · Network fundamentals · Service enumeration
+**Scripting & Automation**
+`Python` `Bash` `PowerShell` `Regex`
 
-[→ View Project](./1-network-scanner/) https://github.com/mohmadhisham68-hub/network-port-scanner
+**Forensics**
+`Autopsy` `FTK Imager` `SQLite Browser`
 
----
+**Frameworks & Threat Intel**
+`MITRE ATT&CK` `CVSS` `VirusTotal` `IOC Lookup` `CVE Research`
 
-## 2. Password Security Auditor
-
-Analyses passwords using real attacker methodology — entropy calculation, crack time estimation, keyboard walk detection, common password checking, and SHA-1 k-anonymity for HaveIBeenPwned.
-
-```bash
-python3 password_auditor.py
-```
-
-**Skills:** Cryptography · Entropy · Regex · Defensive security · Risk assessment
-
-[→ View Project](./2-password-auditor/) https://github.com/mohmadhisham68-hub/password-security-auditor
+**SOC Skills**
+`Alert Triage` `IOC Analysis` `Severity Classification` `Runbook Execution` `Phishing Header Analysis`
 
 ---
 
-## 3. Security Log Analyser & Intrusion Detector
+## 🛠️ Projects
 
-Blue team tool that parses Linux auth logs to detect brute force attacks, password spray, off-hours logins, root access, privilege escalation, and threat intel matches. Maps every finding to MITRE ATT&CK.
+### 🔍 Incident Response & SIEM Lab
+*Splunk · Microsoft Sentinel · Python · PowerShell*
 
-```bash
-python3 log_analyser.py --demo
-```
+- Correlated alerts across Splunk and Sentinel to identify brute-force patterns, lateral movement, and anomalous behaviour
+- Triaged suspicious samples and phishing indicators via VirusTotal; extracted IOCs and cross-referenced against MITRE ATT&CK
+- Built Python ingestion scripts that reduced manual log pre-processing time by 40% across repeated alert types
+- Used PowerShell to surface suspicious activity from Windows Event IDs 4624, 4625, and 4688
+- Led a 4-analyst team; authored a credential-attack runbook adopted by the full team; presented unified incident timeline to a mock CISO panel
 
-**Skills:** Log analysis · IDS logic · MITRE ATT&CK · Incident response · SOC methodology
-
-[→ View Project](./3-log-analyzer/)https://github.com/mohmadhisham68-hub/security-log-analyser
-
-### 4. Bash Recon Tool
-**Language:** Bash  
-**Purpose:** Network reconnaissance and suspicious login detection
-
-- Automates WHOIS lookups and network scanning across multiple hosts
-- Detects suspicious login patterns in system logs
-- All findings tagged to MITRE ATT&CK categories for structured reporting
-- https://github.com/mohmadhisham68-hub/bash-recon-tool
-
-```bash
-bash recon.sh --target 192.168.1.0/24
-## 🛠️ Tech Stack
-
-```Skills: Bash scripting · Network recon · DNS enumeration · MITRE ATT&CK · Penetration testing
-[→ View Project](https://github.com/mohmadhisham68-hub/bash-recon-tool)
-
----
-## Technical Skills
-
-```
-Security Tools    Kali Linux · Wireshark · Nmap · Metasploit · Autopsy · OpenVAS · Splunk
-Programming       Python · Bash · PowerShell
-Frameworks        MITRE ATT&CK 
-Platforms         TryHackMe 
-```
-
+👉 [View Repository](https://github.com/mohmadhisham68-hub/siem-incident-response)
 
 ---
 
-## Certifications
+### 🔐 Security Automation Suite
+*Python · Bash · Regex · MITRE ATT&CK*
+
+**1. Network Port Scanner**
+Multi-threaded Python scanner with 24 service mappings and banner grabbing — identifies open TCP ports, maps services, and flags risky exposures.
+👉 [View Repository](https://github.com/mohmadhisham68-hub/network-port-scanner)
+
+**2. Password Security Auditor**
+Analyses passwords using real attacker methodology — entropy calculation, crack time estimation, keyboard walk detection, and HaveIBeenPwned SHA-1 k-anonymity lookup.
+👉 [View Repository](https://github.com/mohmadhisham68-hub/password-security-auditor)
+
+**3. Security Log Analyser & Intrusion Detector**
+Blue team tool that parses Linux auth logs to detect brute-force, password spray, off-hours logins, root access, and privilege escalation — every finding mapped to MITRE ATT&CK.
+👉 [View Repository](https://github.com/mohmadhisham68-hub/security-log-analyser)
+
+**4. Bash Recon Tool**
+Automates WHOIS lookups, network scanning across multiple hosts, and suspicious login detection — all findings tagged to MITRE ATT&CK categories.
+👉 [View Repository](https://github.com/mohmadhisham68-hub/bash-recon-tool)
+
+---
+
+### 🧪 Network Penetration Testing Lab
+*Nmap · OpenVAS · Wireshark · Metasploit · Kali Linux*
+
+- Identified 15+ open ports and services with Nmap; prioritised CVE findings by CVSS severity using OpenVAS
+- Validated vulnerabilities in controlled lab environments using Metasploit
+- Captured and analysed live PCAP traffic with Wireshark — identified ARP spoofing, cleartext credential transmission, and anomalous traffic patterns across TCP/IP, DNS, and HTTP
+
+👉 [View Repository](https://github.com/mohmadhisham68-hub/network-pentest-lab)
+
+---
+
+### 🗂️ Digital Forensics Investigation
+*Autopsy · FTK Imager · SQLite Browser*
+
+- Acquired and analysed disk images with FTK Imager; recovered deleted files while maintaining chain-of-custody throughout
+- Identified IOCs including suspicious file modifications, deleted logs, and anomalous timestamps across a multi-user environment
+- Reconstructed a full attacker timeline across a 6-stage incident using Autopsy; produced a structured forensic report with IOCs and remediation steps
+
+👉 [View Repository](https://github.com/mohmadhisham68-hub/digital-forensics-investigation)
+
+---
+
+## 📜 Certifications
 
 | Certification | Status |
 |---|---|
-| Google Cybersecurity Professional Certificate | ✅ Earned (Oct 2025) |
-| CompTIA Security+ (SY0-701) | 🔄 In Progress |
-
-
----
-
-## Let's Connect
-
-- 📧 mohmadhisham68@gmail.com
-- 💼 [LinkedIn]https://www.linkedin.com/in/mohamed-hishamudeen-s-o-mohamed-ansari-59a198312/
-- 🌐 Singapore — open to cybersecurity internships and entry-level roles
+| Google Cybersecurity Professional | ✅ Completed (Nov 2025) |
+| EC-Council — Ethical Hacking, Network Defence, Security Specialist | ✅ Completed (via PSB Academy) |
+| CompTIA Security+ | 🔄 In Progress (Expected Jul 2026) |
 
 ---
 
-> ⚠️ **Legal Notice:** All tools in this repository are for educational purposes and authorized testing only. Never use these tools against systems you don't own or have explicit permission to test.
+## 🎯 Currently
+
+- Actively seeking internship opportunities in **SOC operations**, **incident response**, or **threat analysis**
+- Deepening knowledge in threat hunting and detection engineering
+- Working toward CompTIA Security+
+
+---
+
+## 📬 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Hishamudeen-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-hishamudeen)
+[![Email](https://img.shields.io/badge/Email-mohmadhisham68%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohmadhisham68@gmail.com)
+
+---
+
+*All project tools are publicly available in this GitHub with README documentation and usage examples.*
+---

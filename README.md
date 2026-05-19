@@ -75,9 +75,8 @@ Automates WHOIS lookups, network scanning across multiple hosts, and suspicious 
 
 | Certification | Status |
 |---|---|
-| Google Cybersecurity Professional | ✅ Completed (Nov 2025) |
 | EC-Council — Ethical Hacking, Network Defence, Security Specialist | ✅ Completed (via PSB Academy) |
-| CompTIA Security+ | 🔄 In Progress (Expected Jul 2026) |
+
 
 ---
 

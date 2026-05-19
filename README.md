@@ -38,7 +38,7 @@ I build **MITRE ATT&CK‑mapped tools** in Python and Bash, and I’m proficient
 - Parses sender IP, reply‑to, return‑path, and embedded links from raw email files → structured output for immediate triage.
 - Enriches extracted IPs/URLs with VirusTotal reputation scores, detection counts, and threat categories.
 - Generates a severity‑rated triage report in runbook format, ready to paste into an incident ticket.  
-🔗 [Repository](https://github.com/mohmadhisham68-hub/hishamudeen-sec/tree/main/phishing-email-analyser)
+🔗 [Repository](https://github.com/mohmadhisham68-hub/phishing-email-analyser)
 
 ---
 
@@ -48,7 +48,7 @@ I build **MITRE ATT&CK‑mapped tools** in Python and Bash, and I’m proficient
 - Python tool detects brute‑force (T1110) and credential access (T1078) across raw logs → outputs MITRE ATT&CK‑mapped JSON.
 - PowerShell script queries Windows Event IDs 4624, 4625, 4688 to flag suspicious logon patterns.
 - Bash reconnaissance with Nmap identifies exposed services and misconfigured ports; explores Ansible for log collection and host configuration.  
-🔗 [Repository](https://github.com/mohmadhisham68-hub/hishamudeen-sec/tree/main/log-analyser)
+🔗 [Repository](https://github.com/mohmadhisham68-hub/security-log-analyser)https://github.com/mohmadhisham68-hub/bash-recon-tool
 
 ---
 
@@ -58,7 +58,7 @@ I build **MITRE ATT&CK‑mapped tools** in Python and Bash, and I’m proficient
 - Correlated Sentinel & Splunk alerts to uncover brute‑force, lateral movement, and anomalous logins; cross‑referenced IOCs via VirusTotal; prioritised by CVSS and mapped to MITRE ATT&CK.
 - Built Python ingestion scripts to streamline log preprocessing; explored Power Automate for alert notifications and ticket logging.
 - Led a 4‑analyst team → produced a unified incident timeline and authored a credential‑attack runbook adopted as standard SOP.  
-🔗 [Repository](https://github.com/mohmadhisham68-hub/hishamudeen-sec/tree/main/incident-response)
+🔗 [Repository](https://github.com/mohmadhisham68-hub/siem-incident-response)
 
 ---
 
@@ -68,7 +68,7 @@ I build **MITRE ATT&CK‑mapped tools** in Python and Bash, and I’m proficient
 - Acquired and analysed disk images with FTK Imager; recovered deleted files and maintained full chain‑of‑custody following NIST SP 800‑86.
 - Identified suspicious file modifications, deleted logs, and anomalous timestamps → assessed risk severity for compliance & audit.
 - Reconstructed a 6‑stage attacker timeline in Autopsy → presented as a professional forensic report with IOCs and remediation steps.  
-🔗 [Repository](https://github.com/mohmadhisham68-hub/hishamudeen-sec/tree/main/forensics)
+🔗 [Repository](https://github.com/mohmadhisham68-hub/digital-forensics-investigation)
 
 ---
 

@@ -49,28 +49,14 @@ I'm a cybersecurity diploma graduate from PSB Academy (Digital Forensics & Count
 Multi-threaded Python scanner with 24 service mappings and banner grabbing — identifies open TCP ports, maps services, and flags risky exposures.
 👉 [View Repository](https://github.com/mohmadhisham68-hub/network-port-scanner)
 
-**2. Password Security Auditor**
-Analyses passwords using real attacker methodology — entropy calculation, crack time estimation, keyboard walk detection, and HaveIBeenPwned SHA-1 k-anonymity lookup.
-👉 [View Repository](https://github.com/mohmadhisham68-hub/password-security-auditor)
+*2.
 
-**3. Security Log Analyser & Intrusion Detector**
-Blue team tool that parses Linux auth logs to detect brute-force, password spray, off-hours logins, root access, and privilege escalation — every finding mapped to MITRE ATT&CK.
-👉 [View Repository](https://github.com/mohmadhisham68-hub/security-log-analyser)
-
-**4. Bash Recon Tool**
+**3.. Bash Recon Tool**
 Automates WHOIS lookups, network scanning across multiple hosts, and suspicious login detection — all findings tagged to MITRE ATT&CK categories.
 👉 [View Repository](https://github.com/mohmadhisham68-hub/bash-recon-tool)
 
 ---
 
-### 🧪 Network Penetration Testing Lab
-*Nmap · OpenVAS · Wireshark · Metasploit · Kali Linux*
-
-- Identified 15+ open ports and services with Nmap; prioritised CVE findings by CVSS severity using OpenVAS
-- Validated vulnerabilities in controlled lab environments using Metasploit
-- Captured and analysed live PCAP traffic with Wireshark — identified ARP spoofing, cleartext credential transmission, and anomalous traffic patterns across TCP/IP, DNS, and HTTP
-
-👉 [View Repository](https://github.com/mohmadhisham68-hub/network-pentest-lab)
 
 ---
 
